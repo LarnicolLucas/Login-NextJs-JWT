@@ -54,4 +54,8 @@ const response = await fetch('/api/login/'+route, {
 
         return responseData
 ```
+## Dependecies
+- NextJS
+- JWT
+- MongoDB Atlas
 
