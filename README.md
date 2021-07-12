@@ -20,7 +20,7 @@ Set params.js file
 - Time of cookie expiration
 - Login and password for Mongo connection
 - Cookie Parameters
-Don't forget to change public and private key with RSA encryption.
+*Don't forget to change public and private key with RSA encryption.
 
 ```javascript
 const params = {
